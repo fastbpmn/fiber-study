@@ -1,4 +1,4 @@
-module example/fiber_study
+module example/fiber-study
 
 go 1.19
 
